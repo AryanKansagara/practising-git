@@ -1,0 +1,100 @@
+Form   4626
+Department of the Treasury 
+Internal Revenue ServiceAlternative Minimum Tax—Corporations
+▶ Attach to the corporation's tax return.  
+▶ Information about Form 4626 and its separate instructions is at www.irs.gov/form4626 .OMB No. 1545-0123
+2016
+Name Employer identification number
+Note:  See the instructions to find out if the corporation is a small corporation exempt from the
+alternative minimum tax (AMT) under section 55(e).
+1 Taxable income or (loss) before net operating loss deduction .............. 1 
+2 Adjustments and preferences:
+a Depreciation of post-1986 property ...................... 2a 
+b Amortization of certified pollution control facilities .................. 2b
+c Amortization of mining exploration and development costs .............. 2c 
+d Amortization of circulation expenditures (personal holding companies only) ......... 2d
+e Adjusted gain or loss ........................... 2e 
+f Long-term contracts ........................... 2f 
+g Merchant marine capital construction funds .................... 2g
+h Section 833(b) deduction (Blue Cross, Blue Shield, and similar type organizations only) ..... 2h 
+i Tax shelter farm activities (personal service corporations only) ............. 2i 
+j Passive activities (closely held corporations and personal service corporations only) ...... 2j 
+k Loss limitations ............................. 2k 
+l Depletion ............................... 2l 
+m Tax-exempt interest income from specified private activity bonds ............ 2m
+n Intangible drilling costs .......................... 2n
+o Other adjustments and preferences ...................... 2o
+3 Pre-adjustment alternative minimum taxable income (AMTI). Combine lines 1 through 2o ..... 3
+4 Adjusted current earnings (ACE) adjustment:
+a ACE from line 10 of the ACE worksheet in the instructions ........ 4a 
+b 
+ Subtract line 3 from line 4a. If line 3 exceeds line 4a, enter the difference as a 
+negative amount. See instructions ................ 4b
+c Multiply line 4b by 75% (0.75). Enter the result as a positive amount ..... 4c 
+d 
+  
+  
+ Enter the excess, if any, of the corporation’s total increases in AMTI from prior 
+year ACE adjustments over its total reductions in AMTI from prior year ACE
+adjustments. See instructions. Note: You  must  enter an amount on line 4d 
+(even if line 4b is positive) ................... 4d
+e ACE adjustment.
+• If line 4b is zero or more, enter the amount from line 4c                                                        ...
+• If line 4b is less than zero, enter the  smaller  of line 4c or line 4d as a negative amount }  4e 
+5 Combine lines 3 and 4e. If zero or less, stop here; the corporation does not owe any AMT .... 5 
+6 Alternative tax net operating loss deduction. See instructions .............. 6 
+7 Alternative minimum taxable income.  Subtract line 6 from line 5. If the corporation held a residual  
+interest in a REMIC, see instructions ...................... 7 
+8 Exemption phase-out  (if line 7 is $310,000 or more, skip lines 8a and 8b and enter -0- on line 8c):
+a 
+ Subtract $150,000 from line 7 (if completing this line for a member of a 
+controlled  group, see instructions). If zero or less, enter -0- ....... 8a 
+b Multiply line 8a by 25% (0.25) ................. 8b
+c 
+ Exemption. Subtract line 8b from $40,000 (if completing this line for a member of a controlled group, 
+see instructions). If zero or less, enter -0- .................... 8c 
+9 Subtract line 8c from line 7. If zero or less, enter -0- ................. 9 
+10 Multiply line 9 by 20% (0.20) ........................ 10 
+11 Alternative minimum tax foreign tax credit (AMTFTC). See instructions ........... 11 
+12 Tentative minimum tax. Subtract line 11 from line 10 ................. 12 
+13 Regular tax liability before applying all credits except the foreign tax credit ......... 13 
+14 
+ Alternative minimum tax.  Subtract line 13 from line 12. If zero or less, enter -0-. Enter here and on
+Form 1120, Schedule J, line 3, or the appropriate line of the corporation’s income tax return ... 14
+For Paperwork Reduction Act Notice, see separate instructions. Cat. No. 12955I Form 4626  (2016)
+1120_ekta_us
+ekta pvt ltd, ekta patel pvt ltd
+-12,345,679,024,690
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+-12,345,679,024,690
+-12,345,679,024,690
+0
+0
+0
+0
+-12,345,679,024,690
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
